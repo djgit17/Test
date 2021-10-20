@@ -4,7 +4,7 @@ class Test
 {
 	int a=10;
 	int b=20;
-	string s ="hello";
+	string s ="helly";
 	public void Test()
 	{	
 		Console.WriteLine("test1");
